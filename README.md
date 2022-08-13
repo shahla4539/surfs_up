@@ -15,6 +15,15 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 ![image](https://user-images.githubusercontent.com/105535250/184470306-f4f3de68-5c8b-4bb8-9761-8aabcb242ed2.png)
 
+### The list of temperatures for the month of December.
+
+![image](https://user-images.githubusercontent.com/105535250/184470367-7f5da101-120c-4537-b5d8-1bde89175c66.png)
+
+### The summary statistics for the December temperature.
+
+![image](https://user-images.githubusercontent.com/105535250/184470402-20dbca86-e53a-4327-a712-dca77b04fe01.png)
+
+
 
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
