@@ -37,8 +37,10 @@ In the month of june the minimum temperature is 64 degrees whereas in december 5
 
 In the month of june the maximum temperature is 85 degrees whereas in december 83 degrees.
 
+It's clear from your analysis that Oahu is a great location for the new surf shop. Upon query about how many stations are being used to collect this information, I run a query on the SQLite database to find this information quickly.
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
+![image](https://user-images.githubusercontent.com/105535250/184471311-9851ca95-3f30-4d4c-a1e0-280d042050c4.png)
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt
+
+
+
