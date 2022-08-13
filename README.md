@@ -25,6 +25,8 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 ## Summary:
 
+to help making the decision following work is been done:
+
 * Comparision in **Average temerature** 
 
 In the month of june the average temperature is 75 degrees whereas in december 71 degrees.
