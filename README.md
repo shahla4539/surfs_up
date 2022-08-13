@@ -41,6 +41,9 @@ It's clear from the analysis that Oahu is a great location for the new surf shop
 
 ![image](https://user-images.githubusercontent.com/105535250/184471311-9851ca95-3f30-4d4c-a1e0-280d042050c4.png)
 
+I also find which station is more active by writing the following query.
+
+![image](https://user-images.githubusercontent.com/105535250/184471732-831fd5aa-a5e9-4c49-a371-586c7218aecb.png)
 
 
 
